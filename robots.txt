@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: michelleawu/
+Disallow: Useful-Scripts/
+Disallow: ankushagrawal/
+Disallow: apollo/
+Disallow: euler/
+Disallow: hacktive/
+Disallow: pixsnake/
+Disallow: pyro/
+Disallow: wp-content/
+Disallow: lvtran5.0/
+Disallow: hkgh/
+Disallow: potts/
+Disallow: synch/
+Disallow: nuvipannu/
